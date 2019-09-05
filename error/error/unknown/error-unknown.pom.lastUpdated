@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 22:12:52 CST 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1567087972093
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact error\:error\:pom\:unknown from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset
